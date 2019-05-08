@@ -1,0 +1,19 @@
+{
+    "name": "seiyu-nico/view",
+    "description": "variable_print_debug",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "seiyu-nico",
+            "email": "yuseiishii141+php@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SeiyuNico\\View\\": "src/"
+        }
+    }
+}
